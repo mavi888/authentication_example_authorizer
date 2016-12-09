@@ -1,0 +1,17 @@
+{
+  "name": "authentication_example_authorizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bluebird": "^3.4.6",
+    "jsonwebtoken": "^7.2.1",
+    "promisify": "0.0.3",
+    "request": "^2.79.0"
+  }
+}
